@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael Jiahao Luo
 - 👀 I’m interested in Blockchian and program analysis.
 - 🌱 I’m currently learning Zero-Knowledge proof
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Looking for Ph.D. programs now...
 - 📫 How to reach me: This is my blog https://www.blog-blockchain.xyz/
 
 <!---
