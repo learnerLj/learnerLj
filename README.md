@@ -1,10 +1,33 @@
-- 👋 Hi, I’m Michael Jiahao Luo
-- 👀 I’m interested in Blockchian and program analysis.
-- 🌱 I’m currently learning Zero-Knowledge proof
-- 💞️ Looking for Ph.D. programs now...
-- 📫 How to reach me: This is my blog https://www.blog-blockchain.xyz/
+# 👋 Hi, I’m Michael Jiahao Luo
 
-<!---
-learnerLj/learnerLj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **Blockchain** and **Program Analysis**. I maintain a comprehensive program analysis note on my [blog](https://www.blog-blockchain.xyz/), have developed rules for **Slither**, and am interested in **LLM for Security**. Currently, I’m also working on security research and development for **Web3 wallet interactions**.
+  
+- 🌱 I’m currently learning **Applications of Large Language Models (LLMs)**, **Introductory Machine Learning**, and **Wallet Interaction Security**.
+
+- 🎓 I’m considering applying for a Ph.D. program in **Cybersecurity** or **AI Applications** in Spring or Fall 2026. Currently, I’m exploring **Web3 commercialization models**, **investment**, and foundational **quantitative analysis**.
+
+- 📫 How to reach me: [Blog](https://www.blog-blockchain.xyz/) | [LinkedIn](https://www.linkedin.com/in/jiahao-michael-luo-8ba5942a3/)
+
+---
+
+### 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow)
+![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=blockchain)
+
+---
+
+### 📊 GitHub Stats
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=learnerLj&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learnerLj&layout=compact)
+
+---
+
+### 📌 Projects
+
+- [Project 1](https://github.com/learnerLj/project1): Brief description
+- [Project 2](https://github.com/learnerLj/project2): Brief description
