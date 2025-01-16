@@ -29,5 +29,5 @@
 
 ### 📌 Projects
 
-- [Project 1](https://github.com/learnerLj/project1): Brief description
-- [Project 2](https://github.com/learnerLj/project2): Brief description
+- [MaskCracker](https://github.com/learnerLj/MaskCracker): Assess the security of your Metamask wallet by reproducing real-world attack scenarios.
+- [geth-analyze](https://github.com/learnerLj/geth-analyze): go-ethereum source code analyzation under the perspective of smart contract security.
